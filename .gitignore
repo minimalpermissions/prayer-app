@@ -1,0 +1,13 @@
+.metadata
+
+*/.classpath
+*/.project
+*/.settings/*
+
+*/libs/*
+*/bin/*
+*/gen/*
+
+*/*.png
+*/proguard-project.txt
+*/project.properties
